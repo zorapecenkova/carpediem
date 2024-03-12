@@ -44,3 +44,8 @@ body {
   text-align: center;
   border: 10px solid var(--clr-accent);
 }
+
+.levy-bg{
+max-width: 25%;
+height: auto;
+}
