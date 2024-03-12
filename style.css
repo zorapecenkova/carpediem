@@ -35,8 +35,6 @@ body {
 }
 
 .kridlo {
-  width: 400px;
-  height: auto;
   background-color: #fb7185;
   padding: 1em;
   font-weight: 700;
@@ -44,6 +42,12 @@ body {
   text-align: center;
   border: 10px solid var(--clr-accent);
 }
+
+.kridlo-1 {
+width : 25%
+height:auto
+}
+
 
 .levy-bg{
 max-width: 25%;
