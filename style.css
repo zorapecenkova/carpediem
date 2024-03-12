@@ -5,11 +5,7 @@
   --clr-accent: #e11d48;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+
 
 body {
   margin: 0;
@@ -18,17 +14,15 @@ body {
   word-spacing: 1.4px;
   font-family: "Roboto", sans-serif;
   color: var(--clr-dark);
-  background-color: var(--clr-light);
+  background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  width: 100vh;
 }
 
 .triptych {
-  width: 80%;
-  height: 700px;
-  margin: 0 auto;
   border: 10px solid var(--clr-dark);
   display:flex;
   justify-content:space-evenly;
@@ -36,7 +30,6 @@ body {
 
 .kridlo {
   background-color: #fb7185;
-  padding: 1em;
   font-weight: 700;
   color: var(--clr-light);
   text-align: center;
@@ -44,7 +37,7 @@ body {
 }
 
 .kridlo-1 {
-width: 10%;
+width: 25vh;
 height:auto;
 }
 
