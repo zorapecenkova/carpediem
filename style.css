@@ -35,8 +35,8 @@ body {
 }
 
 .kridlo {
-  width: 150px;
-  height: 150px;
+  width: auto;
+  height: auto;
   background-color: #fb7185;
   padding: 1em;
   font-weight: 700;
