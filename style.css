@@ -43,6 +43,5 @@ height:auto;
 
 
 .levy-bg{
-width: auto;
-height: auto;
+object-fit: contain;
 }
